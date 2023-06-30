@@ -1,0 +1,87 @@
+<tbody>
+    <table>
+          <tr>
+
+           <td class="a">BRASIL</td>
+           <td class="b">ESPAÑA</td>
+           <td class="c">COLOMBIA</td>
+           <td class="d">URUGUAY</td>
+           
+        </tr>
+        
+        <tr>
+            
+            <td class="a">CROACIA</td>
+            <td class="b">HOLANDA</td>
+            <td class="c">GRECIA</td>
+            <td class="d">COSTA RICA</td>
+            
+         </tr>
+         <tr>
+            
+            <td class="a">MÉXICO</td>
+            <td class="b">CHILE</td>
+            <td class="c">COSTA MARFIL</td>
+            <td class="d">INGLATERRA</td>
+            
+         </tr>
+         <tr>
+            
+            <td class="a">CAMERÚN</td>
+            <td class="b">AUSTRALIA</td>
+            <td class="c">JAPÓN</td>
+            <td class="d">ITALIA</td>
+            
+         </tr>
+         
+        </tbody>
+    </table>
+
+
+    .brasil {
+      border: 2px solid  rgb(130, 77, 255);
+      border-radius: 17px;
+      color: rgb(247, 0, 255);
+      background-color: #000000;
+      width: 1200px;
+      height: 50px;
+  }
+
+  <li><a href="">Eventos</a></li>
+
+
+
+
+  <center> <h1 class="tciudad">CIUDADES ANFITRIONAS</h1></center><br> <br>
+  <section id="f2" class="ciudades">
+      <div class="borde1"><img  src="rio.jpg" alt="" width="300" height="300">
+          <p class="eche">La ciudad de Río de Janeiro es la <br> principal ciudad de este mundial 2023 
+          </p>
+      </div>
+      <div class="borde2" ><img src="saopa.jpg" alt="" width="300" height="300">
+          <p class="eche1">São Paulo con varias instituciones <br> culturales y una rica tradición arquitectónica. 
+          </p>
+      </div>
+      <div class="borde3"><img  src="belo.jpg" alt="" width="300" height="300">
+          <p class="eche2">Belo Horizonte es considerada la <br> cuarta ciudad más grande en la población <br> brasileña con un gran atractivo turistico
+          </p>
+      </div>
+  </section>
+
+
+  margin-left: 90px;
+    border-radius: 15px;
+    border: 2px solid;
+    max-width: 310px;
+    border-color: rgb(0, 255, 21);
+
+    border-radius: 16px;
+    border: 2px solid;
+    max-width: 310px;
+    border-color: rgb(0, 255, 21);
+
+    border-radius: 16px;
+    border: 2px solid;
+    max-width: 310px;
+    border-color: rgb(0, 255, 21);
+    height: 380px;
